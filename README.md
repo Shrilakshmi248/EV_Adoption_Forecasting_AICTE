@@ -6,7 +6,7 @@ AICTE Internship - July 2025 by Shell-Edunet Foundation - Skills4Future Intern :
 This project focuses on analyzing the distribution and adoption of electric vehicles (EVs) across different counties using a real-world dataset. It involves:
 
 * **Dataset:** Electric Vehicle Population by County, which includes details such as make, model, electric range, and county information.
-* 
+  
 * **Goals:**
   * Understand EV adoption trends by geography.
   * Analyze factors like vehicle type, manufacturer, and model popularity.
